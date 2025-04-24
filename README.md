@@ -1,5 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/CQ0jbgGv)
-
 # Dependencies
 
 To run this simulation, you will need [GNU Make 4.1.1](https://www.gnu.org/software/software.html) and [g++ (GCC) 13.2.1](https://gcc.gnu.org/). This simulation has not been tested on other versions of these software, and therefore may not work.
